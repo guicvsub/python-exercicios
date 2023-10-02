@@ -1,4 +1,4 @@
-check point em python
+'''check point em python'''
 print("Seja bem-vindo!")
 endereco = input("Digite seu endereço: ")
 idade = int(input("Digite sua idade: "))

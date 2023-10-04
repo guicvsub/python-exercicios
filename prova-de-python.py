@@ -22,6 +22,8 @@ if idade <= 2005:
     if valortotal > 100:
         print("Você recebeu frete grátis.")
         print(f"Total da sua compra: RS {valortotal}")
+        print(f"{endereço})
+        print(f"{idade})
     else:
         valortotal += frete
         print(f"Obrigado por comprar! Sua compra é de RS {valortotal} com o frete.")

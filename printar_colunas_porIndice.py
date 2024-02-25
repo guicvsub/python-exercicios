@@ -14,7 +14,8 @@ def acha_indice_maior(lista):
     return indice
 
 caros =["uno","gol","celtinha"]
-precos =[10,20,1000]
-caroMaisCaro= caros[acha_indice_maior(precos)]
-precosMaior= acha_maior(precos)
-print(f"esse e o carro mais carro e o {caroMaisCaro} e o preco e {precosMaior} ")
+precos =[10, 20, 1000]
+caroMaisCaro = caros[acha_indice_maior(precos)]
+precosMaior = acha_maior(precos)
+print(f"esse e o carro mais caro e o {caroMaisCaro} e o preco e {precosMaior} ")
+ff
